@@ -1,11 +1,11 @@
-### Olá! Sou o João Pedro Fuhr 👋
+### Hi there, I'm João Pedro 👋
 
-Aspirante a Desenvolvedor Full-Stack, estudante e construindo minha carreira em tecnologia.
-Foco em arquitetura limpa, boas práticas e aprendizado contínuo.
+Full-Stack Developer, student, and building my career in tech.
+Focused on clean architecture, best practices, and continuous learning.
 
-- 🎓 Atualmente trabalhando no TCC
-- 💻 Construindo projetos full-stack com Clean Architecture
-- 📍 Maracaí - SP
+- 🎓 Currently working on my undergraduate thesis (TCC)
+- 💻 Building full-stack projects with Clean Architecture
+- 📍 Maracaí - SP, Brazil
 
 ### 🛠️ Stack
 
@@ -18,14 +18,17 @@ Foco em arquitetura limpa, boas práticas e aprendizado contínuo.
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Projetos em destaque
+### 🚀 Featured Projects
 
-**[Sistema de Gestão Hoteleira](https://github.com/joaopedrofuhr45-cmd/Projeto-full-stack-Site-Hoteis)**
-Sistema full-stack com Clean Architecture — Angular + NestJS + Prisma + PostgreSQL. Use cases, entidades imutáveis e repository pattern.
+**[Hotel Management System](https://github.com/joaopedrofuhr45-cmd/Projeto-full-stack-Site-Hoteis)**
+Full-stack system built with Clean Architecture — Angular + NestJS + Prisma + PostgreSQL. Use cases, immutable entities, and repository pattern.
 
-**[Controle de Gastos](https://github.com/joaopedrofuhr45-cmd/controle-de-gastos-full)**
-Aplicação para gerenciamento de finanças pessoais.
+**[Expense Tracker](https://github.com/joaopedrofuhr45-cmd/controle-de-gastos-full)**
+Personal finance management application.
 
-### 📫 Contato
+**[Game Library](https://github.com/joaopedrofuhr45-cmd/bibliotecajogos)**
+Application for managing and organizing a personal game catalog, built in Java.
+
+### 📫 Contact
 
 [LinkedIn](#) · [Email](#)
