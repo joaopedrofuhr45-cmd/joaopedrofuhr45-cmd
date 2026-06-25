@@ -32,3 +32,6 @@ Application for managing and organizing a personal game catalog, built in Java.
 ### 📫 Contact
 
 [LinkedIn](#) · [Email](#)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofuhr45-cmd&layout=compact&theme=dark)
