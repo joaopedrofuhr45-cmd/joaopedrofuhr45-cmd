@@ -1,6 +1,6 @@
 ### Hi there, I'm João Pedro 👋
 
-Full-Stack Developer, student, and building my career in tech.
+Aspiring Full-Stack Developer, student, and building my career in tech.
 Focused on clean architecture, best practices, and continuous learning.
 
 - 🎓 Currently working on my undergraduate thesis (TCC)
