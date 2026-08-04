@@ -50,8 +50,7 @@ Application for managing and organizing a personal game catalog, built in Java.
 
 ## 📊 GitHub Stats
 
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedrofuhr45-cmd&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=joaopedrofuhr45-cmd&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofuhr45-cmd&layout=compact&theme=dark)
 
 
