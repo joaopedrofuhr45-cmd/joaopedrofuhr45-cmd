@@ -51,6 +51,3 @@ Application for managing and organizing a personal game catalog, built in Java.
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaopedrofuhr45-cmd&theme=github-dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofuhr45-cmd&layout=compact&theme=github-dark)
