@@ -17,8 +17,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: joaopedrofuhr45-cmd
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+         outputs: 
+         dist/github-contribution-grid-snake.svg?color_snake=%2300F5D4&color_dots=%23161b22,%23183c46,%23087e8b,%2300b4d8,%2300f5d4
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish snake
