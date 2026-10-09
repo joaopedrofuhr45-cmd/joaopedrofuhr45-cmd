@@ -26,31 +26,37 @@ Focused on Clean Architecture, best practices, and continuous learning.
 ## 🚀 Featured Projects
 
 ### 🏨 Hotel Management System
-Full-stack system built with Clean Architecture using Angular + NestJS + Prisma + PostgreSQL.
+Full-stack system built with Clean Architecture using Angular, NestJS, Prisma, and PostgreSQL.
 
-🔗 https://github.com/joaopedrofuhr45-cmd/Projeto-full-stack-Site-Hoteis
+🔗 [View Repository](https://github.com/joaopedrofuhr45-cmd/Projeto-full-stack-Site-Hoteis)
+
+---
+
+### 🩺 App Saúde — Healthcare Application
+Healthcare application built with Angular on the frontend and Java/Spring Boot on the backend.
+
+- 🎨 [Frontend — Angular](https://github.com/joaopedrofuhr45-cmd/appSaudeFrontEnd)
+- ⚙️ [Backend — Java / Spring Boot](https://github.com/joaopedrofuhr45-cmd/appSaudeBack)
 
 ---
 
 ### 💰 Expense Tracker
-
 Personal finance management application.
 
-🔗 https://github.com/joaopedrofuhr45-cmd/controle-de-gastos-full
+🔗 [View Repository](https://github.com/joaopedrofuhr45-cmd/controle-de-gastos-full)
 
 ---
 
 ### 🎮 Game Library
-
 Application for managing and organizing a personal game catalog, built in Java.
 
-🔗 https://github.com/joaopedrofuhr45-cmd/bibliotecajogos
+🔗 [View Repository](https://github.com/joaopedrofuhr45-cmd/bibliotecajogos)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaopedrofuhr45-cmd&theme=github-dark)
+
 
 ## 🐍 My Contributions
 
