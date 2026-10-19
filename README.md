@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer, student, and building my career in tech.
 Focused on Clean Architecture, best practices, and continuous learning.
 
 - 🎓 Currently working on my undergraduate thesis (TCC)
-- 💻 Building full-stack projects with Clean Architecture
+- 💻 Building full-stack projects 
 - 📍 Maracaí - SP, Brazil
 
 ---
